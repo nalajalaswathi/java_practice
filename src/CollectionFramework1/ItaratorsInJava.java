@@ -23,9 +23,7 @@ public class ItaratorsInJava {
 			itr.remove();
 		}
 		System.out.println(arraylist);
-		
-		
-		
+			
 		System.out.println("-----------------------------------");
 		
 		List<Object> linkedlist1 = new LinkedList<Object>();
